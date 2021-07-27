@@ -18,7 +18,7 @@ func init() {
 
 func main() {
 	wakaAPIKey := os.Getenv("WAKATIME_API_KEY")
-	fmt.Println(wakaAPIKEY)
+	fmt.Println(wakaAPIKey)
 	ghToken := os.Getenv("GH_TOKEN")
 	fmt.Println(ghToken)
 	ghUsername := os.Getenv("GH_USER")
