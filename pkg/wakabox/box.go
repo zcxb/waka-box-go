@@ -11,7 +11,7 @@ import (
 	"strings"
 	"unicode/utf8"
 
-	"github.com/XiaoMiku01/wakatime-go/pkg/wakatime"
+	"github.com/zcxb/wakatime-go/pkg/wakatime"
 	"github.com/google/go-github/github"
 )
 
